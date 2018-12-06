@@ -116,6 +116,10 @@ releases:
   version: "1.0.2"
   url: "https://s3.amazonaws.com/suse-final-releases/groot-btrfs-release-1.0.2.tgz"
   sha1: "1232559a679c7b588e735d35c1a8deb250fd8afd"
+- name: "scf-helper"
+  version: "1.0.0"
+  url: "https://s3.amazonaws.com/suse-final-releases/scf-helper-release-1.0.0.tgz"
+  sha1: "83c8266aab7b4894b7ff4a0beefff1f31aad7b23"
 
 instance_groups:
 - name: syslog-scheduler
